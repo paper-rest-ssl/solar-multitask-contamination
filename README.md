@@ -1,1 +1,1 @@
-# solar-panel-classification
+# solar-multitask-contamination
